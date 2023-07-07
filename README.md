@@ -1,1 +1,1 @@
-update readme for collaboration assignments
+Update readme for collaboration assignment
